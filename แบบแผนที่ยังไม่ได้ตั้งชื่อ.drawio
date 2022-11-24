@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T09:53:16.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="WHLKf26-_Emjc9rYKquB" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T09:54:52.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="24Y2kWRQxLoGLtzpOGOa" type="github">
   <diagram id="5XE0UWEQUxbI7yYi9HfR" name="หน้า-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,8 +85,13 @@
         <mxCell id="OibC9nyuZvysre33CNvJ-36" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot; color=&quot;#24292f&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;เดินไปเข้าแถว&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="625" y="550" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OibC9nyuZvysre33CNvJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OibC9nyuZvysre33CNvJ-38" target="OibC9nyuZvysre33CNvJ-49">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OibC9nyuZvysre33CNvJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OibC9nyuZvysre33CNvJ-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OibC9nyuZvysre33CNvJ-38" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot; color=&quot;#24292f&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;ถ้าเดินไปเข้าแถวจะไม่โดนทำโทษ&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="470" y="710" width="240" height="40" as="geometry" />
@@ -99,9 +104,6 @@
             <mxPoint x="400" y="510" as="sourcePoint" />
             <mxPoint x="275" y="570" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="OibC9nyuZvysre33CNvJ-49" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji&quot; color=&quot;#24292f&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;ถ้าเดินไปเข้าแถวจะไม่โดนทำโทษ&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry y="580" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
